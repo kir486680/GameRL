@@ -1,2 +1,2 @@
 # GameRL
-Creating and test your RL algorithm with GameRL
+Create and test your RL algorithm with GameRL
